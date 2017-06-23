@@ -1,0 +1,8 @@
+json
+numpy
+matplotlib.pyplot
+networkx
+multiprocessing
+IPython.display
+warnings
+operator
